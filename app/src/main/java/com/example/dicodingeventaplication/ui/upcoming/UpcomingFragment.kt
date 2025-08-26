@@ -35,14 +35,6 @@ class UpcomingFragment : Fragment() {
         )[NetworkViewModel::class.java]
     }
 
-//    private val upcomeRepository: DicodingEventRepository by lazy {
-//        DicodingEventRepository
-//    }
-//
-//    private val upcomingViewModel: UpcomingViewModel by lazy {
-//        ViewModelProvider(this, EventViewModelFactory(upcomeRepository))[UpcomingViewModel::class.java]// pengganti get
-//    }
-
     private val factory: EventViewModelFactory by lazy {
         EventViewModelFactory.getInstance(requireActivity())
     }

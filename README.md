@@ -100,8 +100,19 @@ Aplikasi Android yang menyajikan berbagai event dari API Dicoding dengan fitur l
 
 ---
 
+
+## 📱 Coba Aplikasi
+Kamu bisa langsung mencoba aplikasi ini dengan mengunduh file APK terbaru melalui tombol di bawah:
+
+[ ![Download APK](https://img.shields.io/badge/Download-Latest_APK-green?style=for-the-badge&logo=android) ](https://github.com/taufiqurrohman132/finance-tracker-android/releases/latest)
+
+> **Catatan Instalasi:**
+> Karena aplikasi ini didistribusikan secara mandiri (tidak melalui Play Store), Android mungkin akan menampilkan peringatan "Unknown Apps". Pilih **"Install Anyway"** untuk melanjutkan. Aplikasi ini aman dan seluruh kode sumbernya bisa kamu periksa di repository ini.
+
+----
 ## Cara Menjalankan
 
 1. Clone repo:
  ```bash
  git clone https://github.com/taufiqurrohman132/Apk-DicodingEvent.git
+```

@@ -10,19 +10,19 @@ Aplikasi Android yang menyajikan berbagai event dari API Dicoding dengan fitur l
   <tr>
     <td align="center" valign="top">
       <strong>Home</strong><br>
-      <img src="https://github.com/user-attachments/assets/3b10caeb-b6c4-403e-8dae-e385034266a5" width="250"/>
+      <img src="https://github.com/user-attachments/assets/00024cd8-20e2-4078-aafc-6c2ba907495c" width="250"/>
     </td>
     <td align="center" valign="top">
       <strong>Detail</strong><br>
-      <img src="https://github.com/user-attachments/assets/b70957d8-8945-4f19-b6e5-ce4e8c222eea" width="250"/>
+      <img src="https://github.com/user-attachments/assets/9f11be57-149e-4d3e-acd4-1ba4be1c5184" width="250"/>
     </td>
     <td align="center" valign="top">
       <strong>Favorit</strong><br>
-      <img src="https://github.com/user-attachments/assets/bd31e099-e10f-4535-b3f3-174fd71d0af6" width="250"/>
+      <img src="https://github.com/user-attachments/assets/eee1c2c1-5b85-450b-bd89-9f744633b9ab" width="250"/>
     </td>
     <td align="center" valign="top">
       <strong>Notification</strong><br>
-      <img src="https://github.com/user-attachments/assets/f5dcc37e-e4d5-47ff-adc5-637f054ec055" width="250"/>
+      <img src="https://github.com/user-attachments/assets/841ecd13-dcc2-437c-93c8-707b0898ba92" width="250"/>
     </td>
   </tr>
 </table>
@@ -31,19 +31,19 @@ Aplikasi Android yang menyajikan berbagai event dari API Dicoding dengan fitur l
   <tr>
     <td align="center" valign="top">
       <strong>Finished</strong><br>
-      <img src="https://github.com/user-attachments/assets/00dd687b-fb1f-4a9c-a8fa-c25f238ad45b" width="250"/>
+      <img src="https://github.com/user-attachments/assets/a0800288-86c1-4877-a2b4-c63c765e62df" width="250"/>
     </td>
     <td align="center" valign="top">
       <strong>Upcoming</strong><br>
-      <img src="https://github.com/user-attachments/assets/c11317f4-379e-47d5-8dfe-e51830da41d5" width="250"/>
+      <img src="https://github.com/user-attachments/assets/8bfb4a76-422d-4627-a572-a92bd69c0a9c" width="250"/>
     </td>
     <td align="center" valign="top">
       <strong>Search Filter</strong><br>
-      <img src="https://github.com/user-attachments/assets/43b1f039-494c-4598-8230-d2715deaa1ef" width="250"/>
+      <img src="https://github.com/user-attachments/assets/1c8e7a7c-da8a-4c57-ba4a-e7a75e49cd16" width="250"/>
     </td>
     <td align="center" valign="top">
       <strong>Dark Mode</strong><br>
-      <img src="https://github.com/user-attachments/assets/16a7e3b8-11e2-4ad1-b30e-18b56d149aad" width="250"/>
+      <img src="https://github.com/user-attachments/assets/2d0b9296-d870-4f15-a153-60477a4f8ae9" width="250"/>
     </td>
   </tr>
 </table>
